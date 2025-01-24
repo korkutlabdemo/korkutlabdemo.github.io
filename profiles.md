@@ -2,7 +2,7 @@
 ---
 layout: page
 title: Anil Korkut, Ph.D.
-description: Lab PI...
+description: Associate Professor, Bioinformatics & Computational Biology Department, MD Anderson Cancer Center
 img: assets/img/akorkut.jpg
 importance: 1
 category: PI
