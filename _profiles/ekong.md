@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elisa Kong
+title: Elisa Kong, Ph.D.
 description: 2nd-year post-doc...
 img: assets/img/ekong.jpg
 importance: 1
