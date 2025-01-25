@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /team/
-title: team
+title: Team
 description: Members of Korkut Lab
 nav: true
 nav_order: 1
