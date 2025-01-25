@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gonghong Yan, Ph.D.
-description: Former research assistant...
+description: Former research scientist...
 img: assets/img/gyan.jpg
 importance: 1
 category: Alumni
