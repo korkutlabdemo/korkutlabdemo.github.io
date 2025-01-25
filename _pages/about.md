@@ -28,4 +28,7 @@ The Korkut Lab research is actively funded by NIH (NCI), MDA (Moonshots Program)
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/MDA_logo.png" title="MDA" class="img-fluid rounded z-depth-1" %}
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/TMC_logo.png" title="TMC" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
